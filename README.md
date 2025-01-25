@@ -1,8 +1,6 @@
 ## Hi there, I'm Daylon Ramírez 👋
----
- ### 💡 About me
----
 
+ ### 💡 About me
 🎓 Industrial Engineer | Aspiring Data Scientist. 
  
 <!--
