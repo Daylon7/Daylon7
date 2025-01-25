@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Daylon Ramírez 👋
+---
+ ### 💡 About me
+---
 
+🎓 Industrial Engineer | Aspiring Data Scientist. 
+ 
 <!--
 **Daylon7/Daylon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
