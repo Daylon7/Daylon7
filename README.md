@@ -5,7 +5,7 @@
 
 🎓 Industrial Engineer graduated from the Universidad Católica Andrés Bello (UCAB).
 
-🔧 I'm specialized in designing, managing, and optimizing production processes and integrated support systems.
+🔧 I'm specialized in designing, managing, and optimizing production processes and its integrated support systems.
 
 📊 Passionate about data analysis and its role in driving informed decision-making.
 
